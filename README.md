@@ -2,8 +2,8 @@
 <hr>
 Olá, sou Eduardo residente do [CEPEDI](https://www.cepedi.org.br/) do programa de Residência de Software. Este repositório é destinado ao módulo de .NET, onde desenvolveremos habilidades em programação utilizando a linguagem C#.
 
-<span style="color:purple">## Contato</span>
+<h1>CONTATO</h1>
 
-🧑🏾‍💻 **Luis Eduardo B. Soares Rocha**
-📧 **e-mail é nixeo.dev@gmail.com.**
+<h2>🧑🏾‍💻 **Luis Eduardo B. Soares Rocha**</h2>
+<h2>📧 **e-mail é nixeo.dev@gmail.com.**</h2>
 
