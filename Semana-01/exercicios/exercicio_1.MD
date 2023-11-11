@@ -16,4 +16,4 @@
 
 **Atualizar para a Última Versão do .NET SDK:**
 
-`dotnet --version`
+`dotnet new --update-apply`
