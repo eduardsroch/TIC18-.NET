@@ -1,6 +1,6 @@
 <h3>Configuração do Ambiente:</h3>
 
-<p>**Problema**: Como você pode verificar se o **.NET SDK** está corretamente instalado em seu sistema? Em um arquivo de texto ou Markdown, liste os comandos que podem ser usados para verificar a(s) versão(ões) do **.NET SDK** instalada(s), como remover e atualizar.</p>
+<p>Problema: Como você pode verificar se o .NET SDK está corretamente instalado em seu sistema? Em um arquivo de texto ou Markdown, liste os comandos que podem ser usados para verificar a(s) versão(ões) do .NET SDK instalada(s), como remover e atualizar.</p>
 
 **Verificar a Versão do .NET SDK Instalada:**
 
