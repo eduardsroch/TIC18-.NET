@@ -1,6 +1,7 @@
 ﻿/// <summary>
 /// 2 Tipos de Dados:
-/// Problema: Quais são os tipos de dados numéricos inteiros disponíveis no .NET? Dê exemplos de uso para cada um deles através de exemplos.
+/// Problema: Quais são os tipos de dados numéricos inteiros disponíveis no .NET? 
+/// Dê exemplos de uso para cada um deles através de exemplos.
 /// </summary>
 
 
@@ -60,8 +61,22 @@ Console.WriteLine($"Multiplicação: {multiplicacao}");
 Console.WriteLine($"Divisão: {divisao}");
 
 /// <summary>
-/// 
+/// 5. Operadores de Comparação:
+//Problema: Considere as variáveis int a = 5 e int b = 8. Escreva código para determinar se a é maior que b e exiba o resultado.
 /// <summary>
+
+int a = 5;
+int b = 8;
+
+if (a > b)
+{
+    Console.WriteLine("a é maior que b");
+}
+else
+{
+    Console.WriteLine("b é maior que a");
+}
+
 
 
 
