@@ -1,5 +1,5 @@
 <h1 align=""> TIC18 .NET</h1> 
-<h2>*EXERCÍCIOS DA PRIMEIRA SEMANA*</h2>
+<h2>EXERCÍCIOS DA PRIMEIRA SEMANA</h2>
 <hr>
 
 **1. Configuração do Ambiente:**
