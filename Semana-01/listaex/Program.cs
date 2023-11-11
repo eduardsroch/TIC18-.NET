@@ -40,6 +40,29 @@ double valorDouble = 3.14;
 int valor_Int = Convert.ToInt32(valorDouble);
 Console.WriteLine(valorInt); 
 
+/// <summary>
+/// 4. Operadores Aritméticos:
+//Problema: Dada a variável int x = 10 e a variável int y = 3, escreva código para calcular 
+//e exibir o resultado da adição, subtração, multiplicação e divisão de x por y.
+/// </summary>
+
+int x = 10;
+int y = 3;
+
+int soma = x + y;
+int subtracao = x - y;
+int multiplicacao = x * y;
+int divisao = x / y;
+
+Console.WriteLine($"Soma: {soma}");
+Console.WriteLine($"Subtração: {subtracao}");
+Console.WriteLine($"Multiplicação: {multiplicacao}");
+Console.WriteLine($"Divisão: {divisao}");
+
+/// <summary>
+/// 
+/// <summary>
+
 
 
 
