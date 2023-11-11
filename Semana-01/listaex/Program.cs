@@ -28,4 +28,20 @@ Console.WriteLine(valorLong);
 ulong valorUlong = 18446744073709551615; // armazena valores de 0 a 18446744073709551615
 Console.WriteLine(valorUlong);
 
+/// <summary>
+/// 3. Conversão de Tipos de Dados:
+//Problema: Suponha que você tenha uma variável do tipo double e deseja convertê-la 
+//em um tipo int. Como você faria essa conversão e o que aconteceria se a parte 
+//fracionária da variável double não pudesse ser convertida em um int? Resolva o 
+//problema através de um exemplo em C#.
+/// </summary>
+
+double valorDouble = 3.14;
+int valor_Int = Convert.ToInt32(valorDouble);
+Console.WriteLine(valorInt); 
+
+
+
+
+
 
