@@ -1,4 +1,4 @@
-###### ##### #### <h1 align="center"> TIC18 .NET</h1><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  /> **EXERCÍCIOS DA PRIMEIRA SEMANA**
+###### ##### #### <h1 align=""> TIC18 .NET</h1> **EXERCÍCIOS DA PRIMEIRA SEMANA**
 <hr>
 
 **1. Configuração do Ambiente:**
