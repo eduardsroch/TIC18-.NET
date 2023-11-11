@@ -1,4 +1,5 @@
-<h1 align=""> TIC18 .NET</h1> **EXERCÍCIOS DA PRIMEIRA SEMANA** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+<h1 align=""> TIC18 .NET</h1> 
+<h2>*EXERCÍCIOS DA PRIMEIRA SEMANA*</h2>
 <hr>
 
 **1. Configuração do Ambiente:**
@@ -44,3 +45,5 @@ verdadeiras e exiba o resultado.
 **8. Desafio de Mistura de Operadores:**
 
 Problema: Dadas as variáveis int num1 = 7, int num2 = 3, e int num3 = 10, escreva código para verificar se num1 é maior do que num2 e se num3 é igual a num1 + num2.
+
+
