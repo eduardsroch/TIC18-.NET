@@ -46,4 +46,9 @@ verdadeiras e exiba o resultado.
 
 Problema: Dadas as variáveis int num1 = 7, int num2 = 3, e int num3 = 10, escreva código para verificar se num1 é maior do que num2 e se num3 é igual a num1 + num2.
 
+<h3>DISCENTE</h3>
+<h4>🧑🏾‍💻 Luis Eduardo B. Soares Rocha</h4>
+<h4>📧 e-mail: nixeo.dev@gmail.com.</h4>
+<h4>🎓 Turma 1 </h4>
+
 
