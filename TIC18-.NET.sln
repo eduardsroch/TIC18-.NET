@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana-01", "Semana-01", "{47352F68-F5DD-4C12-8E35-71715378EE37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listaex", "Semana-01\exercicios\listaex.csproj", "{78E7DDD5-9A99-4D66-AB2E-CD7FD958B3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E7DDD5-9A99-4D66-AB2E-CD7FD958B3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E7DDD5-9A99-4D66-AB2E-CD7FD958B3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E7DDD5-9A99-4D66-AB2E-CD7FD958B3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E7DDD5-9A99-4D66-AB2E-CD7FD958B3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{78E7DDD5-9A99-4D66-AB2E-CD7FD958B3BB} = {47352F68-F5DD-4C12-8E35-71715378EE37}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C704D76E-DBD9-406C-9549-AD933CCBBBE7}
+	EndGlobalSection
+EndGlobal
