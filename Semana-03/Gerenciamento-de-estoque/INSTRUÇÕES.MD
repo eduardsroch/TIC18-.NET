@@ -6,7 +6,7 @@ Este projeto proporciona uma oportunidade prática para os discentes aplicarem e
 
 **<center>DESCRIÇÃO</center>**
 <hr>
-**Objetivo:**
+Objetivo:
 Desenvolver um sistema de gerenciamento de estoque que utiliza conceitos de tuplas, expressões lambda, LINQ e tratamento de exceções.
 
 **Desenvolvimento**
