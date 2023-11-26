@@ -6,8 +6,7 @@ Este projeto proporciona uma oportunidade prática para os discentes aplicarem e
 
 **<center>DESCRIÇÃO</center>**
 <hr>
-
-**Objetivo:**
+Objetivo:
 Desenvolver um sistema de gerenciamento de estoque que utiliza conceitos de tuplas, expressões lambda, LINQ e tratamento de exceções.
 
 **Desenvolvimento**
@@ -20,7 +19,8 @@ em estoque e preço unitário.
 - Permita que o usuário cadastre novos produtos no estoque, informando código, nome, quantidade e preço.
 o Utilize tratamento de exceções para lidar com possíveis erros durante o cadastro, como entradas inválidas.
 
-**Consulta de Produtos:**
+** Consulta de Produtos:
+**
 - Implemente uma função que permita ao usuário buscar um produto pelo código. Caso o produto não exista, lance uma exceção personalizada indicando que o produto não foi encontrado.
 
 **Atualização de Estoque:**
