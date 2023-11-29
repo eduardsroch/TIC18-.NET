@@ -26,3 +26,18 @@ namespace GerenciamentoDeConsultorio
             Medicos.Add(medico);
         }
 
+        public void AdicionarPaciente(Paciente paciente)
+        {
+            if (Pacientes.Any(p => p.CPF == paciente.CPF))
+            {
+                throw new ArgumentException("CPF já cadastrado para outro paciente.");
+            }
+            Pacientes.Add(paciente);
+        }
+
+        private void MetodoPrivado()
+        {
+
+        }
+    }
+}
