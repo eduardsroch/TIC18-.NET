@@ -5,8 +5,6 @@ using System.Threading.Tasks;
 
 namespace GerenciamentoDeConsultorio
 
-namespace ConsultorioMedico
-
 {
     public class Paciente
     {
